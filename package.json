@@ -1,4 +1,6 @@
 {
+  "name": "my-vercel-api",
+  "version": "1.0.0",
   "dependencies": {
     "mongodb": "^6.16.0"
   }
